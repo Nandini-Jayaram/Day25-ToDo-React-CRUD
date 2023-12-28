@@ -62,7 +62,7 @@ function TopBar({ todo, setTodo, completed, setCompleted }) {
           </div>
           <div className="col">
             <div className="p-3">
-              <button onClick={handleClick}>Add todo</button>
+              <button onClick={handleClick}>Add Task</button>
             </div>
           </div>
         </div>
